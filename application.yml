@@ -1,7 +1,7 @@
 spring:
   proflies:
     active:
-      - dev
+    - dev
 
 ---
 spring：
