@@ -1,5 +1,5 @@
 spring:
-  proflies:
+  profiles:
     active:
     - dev
 
@@ -10,7 +10,7 @@ spring：
     name: microservicecloud-config-nixuxu-dev
 
 ---
-  spring：
+spring：
   profiles: test
   application:
     name: microservicecloud-config-nixuxu-test
