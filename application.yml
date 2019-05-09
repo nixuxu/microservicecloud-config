@@ -14,3 +14,5 @@ spring：
   profiles: test
   application:
     name: microservicecloud-config-nixuxu-test
+
+#一定要保存为UTF-8编码
